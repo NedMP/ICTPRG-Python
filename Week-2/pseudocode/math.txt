@@ -1,0 +1,9 @@
+Take two numbers from the user and save them as num1 and num2
+Print num1 multiplied by num2
+Print num1 added to num2 
+Print num1 subtract num2
+Print num1 divided by num2
+If there is a remainder 
+	print there is a remainder of {remainder} 
+otherwise 
+	Print there is no remainder
