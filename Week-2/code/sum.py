@@ -10,7 +10,6 @@ intNum2 = int(num2)
 print(num1 + " x " + num2 + " = " + str(intNum1 * intNum2))
 print(num1 + " + " + num2 + " = " + str(intNum1 + intNum2))
 print(num1 + " - " + num2 + " = " + str(intNum1 - intNum2)) 
-# print(num1 + " / " + num2 + " = " + str(intNum1 // intNum2)) 
 
 if intNum1 // intNum2 == 0:
   print(num1 + " / " + num2 + " = " + str(intNum1 / intNum2)) 
