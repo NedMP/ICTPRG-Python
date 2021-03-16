@@ -1,3 +1,5 @@
+print("-------------------------------------")
+
 # Set the correct user detail
 correctUser = "bob"
 correctPass = "password1234"
@@ -11,3 +13,5 @@ if username == correctUser and password == correctPass:
     print("Access Granted!")
 else:
     print("Access Denied!")
+
+print("-------------------------------------")
