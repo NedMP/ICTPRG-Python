@@ -1,7 +1,6 @@
 # Ask the user for their grade and save it as a variable
 grade = int(input("What was your grade? "))
 
-
 # A high distinction is greater than or equal to 90
 if grade >= 90:
     print("You will recieve a \"High Distinction\"")
