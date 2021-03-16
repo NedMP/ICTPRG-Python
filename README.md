@@ -12,6 +12,7 @@
   - [Pseudocode](Week-2/pseudocode)
 - **[Week 3](Week-3/)**
   - [Python Code](Week-3/code/)
+  - [Complex Code](Week-3/complex/)
 
 For all my flowcharts I'm using an awesome free tool called **[Draw.io](https://draw.io/)**
 
