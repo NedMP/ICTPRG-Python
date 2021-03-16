@@ -1,6 +1,6 @@
 print("-------------------------------------")
 
-# Set the correct user detail
+# Set the correct user details
 correctUser = "bob"
 correctPass = "password1234"
 
