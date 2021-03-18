@@ -5,7 +5,7 @@ name = input("What is your name? ")
 if name == "frank" or name == "george": 
 
     # Say hello to frank or george
-    print("Hello " + name)
+    print(f"Hello {name}!")
 
 # If their name is not frank or george
 else:

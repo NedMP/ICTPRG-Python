@@ -1,5 +1,3 @@
-# I KNOW THIS IS NOT THE SOLUTION WE ARE MEANT TO BE USING BUT I FEEL LIKE IT IS MORE EFFICIENT THAN WORRYING ABOUT ELIF
-
 # Create a key:value dictionary using the format username:password
 users = {
     "bob": "password1234",
@@ -23,3 +21,17 @@ try:
 # Except KeyError handles errors if the username is not found in the dictionary as a key
 except KeyError:
     print("Access Denied!")
+
+# ========================================================================================
+
+# username == input("Enter your username: ")
+# password == input("Enter your password: ")
+
+# if username == "bob" and password == "password1234": 
+#     print("Access Granted!")
+# elif username == "fred" and password == "happyPass122": 
+#     print("Access Granted!")
+# elif username == "lock" and password == "passwithlock44": 
+#     print("Access Granted!")
+# else: 
+#     print("Access Denied!")
