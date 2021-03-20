@@ -13,7 +13,7 @@
 - **[Week 3](Week-3/)**
   - [Python Code](Week-3/code/)
   - [Complex Code](Week-3/complex/)
-- **[Week 4](Week-4/)
+- **[Week 4](Week-4/)**
   - [Python Code](Week-4/code/)
 
 For all my flowcharts I'm using an awesome free tool called **[Draw.io](https://draw.io/)**
