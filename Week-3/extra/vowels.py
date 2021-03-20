@@ -6,4 +6,9 @@ finalStr = ""
 for i in vowelInWord: 
     finalStr = f"{finalStr}, {i}"
 
-print(f"{finalStr} was found in {word}.)
+if len(vowelInWord) == 0: 
+    print(f"There were no vowels found in {word}.")
+elif len(vowelInWord) == 1: 
+    print(f"{finalStr[2:]} was found in {word}.")
+else:
+    print(f"{word} contained {finalStr[2:]}.")
