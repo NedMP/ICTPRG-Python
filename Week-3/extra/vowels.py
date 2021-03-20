@@ -6,4 +6,4 @@ finalStr = ""
 for i in vowelInWord: 
     finalStr = f"{finalStr}, {i}"
 
-print(finalStr)
+print(f"{finalStr} was found in {word}.)
