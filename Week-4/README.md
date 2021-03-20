@@ -6,7 +6,6 @@
 4. *Write a program that counts from 0 to 25, outputting each number on the same line, seperated by commas.*
 5. *Write a program that keeps asking the user for a number, and adds it toa a total. End the program with x.*
 6. *Write a program that prints a 5x5 grid of x's to the console using only the following print command and two loops.* 
-  ```python
-  print("x", end='')
-  print("")
-  ``` 
+```python
+print("x", end='')
+print("")``` 
