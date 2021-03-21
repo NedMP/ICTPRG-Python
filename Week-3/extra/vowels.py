@@ -10,7 +10,6 @@ vowelInWord = [i for i in vowels if i in word]
 # Define a new string
 finalStr = ""
 
-
 # For each vowel in found in the word, add it to a string with a , between each one
 for i in vowelInWord: 
     finalStr = f"{finalStr}, {i}"
