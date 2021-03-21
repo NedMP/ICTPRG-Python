@@ -1,14 +1,15 @@
-# Ask the user for their grade and save it as a variable
+# Ask the user for their grade and save it as a variable - Handle errors.
 try:
     grade = int(input("What was your grade? "))
 except ValueError:
     print("Please enter a valid grade.")
     quit()
 
+# Handle numbers over 101 and above
 if grade > 100:
     print("Please enter a valid grade.")
 
-# A high distinction is greater than or equal to 90
+# A high distinction is less than 100 and greater than or equal to 90
 elif grade <= 100 and grade >= 90:
     print("You will recieve a \"High Distinction\"")
 
