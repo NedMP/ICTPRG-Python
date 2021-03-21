@@ -1,7 +1,6 @@
 # Start count at 0
 count = 0 
 
-
 # Loop while count is less than 25
 while count < 25: 
 

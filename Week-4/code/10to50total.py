@@ -4,7 +4,6 @@ subtotal = 0
 # Start counting at 10
 count = 10
 
-
 # Loop while count is less than or equal to 50
 while count <= 50:
 
