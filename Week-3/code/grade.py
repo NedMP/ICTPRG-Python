@@ -5,7 +5,7 @@ except ValueError:
     print("Please enter a valid grade.")
     quit()
 
-# Handle numbers over 101 and above
+# Handle numbers 101 and above
 if grade > 100:
     print("Please enter a valid grade.")
 
