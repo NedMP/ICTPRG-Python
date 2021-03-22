@@ -4,7 +4,9 @@ duplicates = []
 
 while currentIn != "x":
     current = int(currentIn)
-    if current in seen:
+    if current in duplicates:
+        seen.append(current)
+    elif current in seen:
         duplicates.append(current)
     else:
         seen.append(current)
