@@ -6,7 +6,7 @@
 **Currently:**
 - **[Week 1](Week-1/)**
   - [Python Code](Week-1/code/)
-- **[Week 2](Week-2/)**
+- **[Week 2](Week-2/)** - *Incomplete*
   - [Python Code](Week-2/code/)
   - [Flowcharts](Week-2/flowcharts/)
   - [Pseudocode](Week-2/pseudocode)
