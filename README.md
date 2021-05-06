@@ -1,5 +1,5 @@
 # SCRIPTING FUNDAMENTALS - PYTHON
-###### Last Updated: *March 22, 2021*
+###### Last Updated: *May 6, 2021*
 ---
 > **Disclaimer:** This is not a guide, this is a week by week breakdown of Python basics that from my Certificate IV in Cybersecurity. I will be tossing in a bit of my own code but I will not be providing a full guide.
 ---
@@ -17,6 +17,8 @@
   - [Python Code](Week-4/code/)
 - **[Week 5](Week-5/)** - *No Comments*
   - [Python Code](Week-5/code/)
+- **[Week 9](Week-9/)** - *No Comments*
+  - [Python Code](Week-9/code/)
 
 For all my flowcharts I'm using an awesome free tool called **[Draw.io](https://draw.io/)**
 
