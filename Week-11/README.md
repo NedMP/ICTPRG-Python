@@ -2,7 +2,7 @@
 ---
 1. *Write a program called 'InputNumber' that will keep asking the user to enter a value until the value is a valid number, then print it.*
 2. *Write a program called 'GetWordsFromUser' that takes a Min and Max as a parameter. The function then takes an input from the user and ensures that the input has at least or at most the specified amount of words. Keep on asking the user until the amount of words is within range, the program then outputs all words lowercase and separated in a list.*
-3. *Write a python script that reads a file called 'names.txt' (which has names separated by a new line), then converts each name to the correct casing and outputs them to a file called 'names-formated.txt' Eg:Write a program called 'GetPassword' that will keep asking a user to enter a password (and confirm the password) until the following criteria is met:* 
+3. *Write a program called 'GetPassword' that will keep asking a user to enter a password (and confirm the password) until the following criteria is met:* 
    - contains at least one of each:
       - a lowercase letter
       - an uppercase letter
