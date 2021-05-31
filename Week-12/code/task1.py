@@ -1,7 +1,8 @@
 #! python3
 # task1.py - Write a Python function to add two numbers and return the value
 
-
+def AddTwoNumbers(x, y):
+    return x + y
 
 print("Test 1 Passed: " + str(AddTwoNumbers(1, 2) == 3))
 print("Test 2 Passed: " + str(AddTwoNumbers(5, 6) == 11))

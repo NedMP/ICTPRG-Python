@@ -1,7 +1,11 @@
 #! python3
 # task4.py - Write a Python function to multiply all the numbers in a list called 'MultiplyElementsInList'.
 
-
+def MultiplyElementsInList(l):
+    t = 1
+    for num in l:
+        t *= num
+    return t
 
 print("Test 1 Passed: " + str(MultiplyElementsInList([1, 2, 3]) == 6))
 print("Test 2 Passed: " + str(MultiplyElementsInList([0, 2, 3]) == 0))
