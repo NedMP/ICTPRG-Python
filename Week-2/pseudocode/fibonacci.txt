@@ -1,10 +1,11 @@
-Start with num1 as 0
-Start with num2 as 1 
-Start a count at 0 
+READ num1 AS 0
+READ num2 AS 1 
+READ count AS 0 
 
-While the count is less than 16
-    Print num1 
-    Set current to num1 plus num2 
-    Make num1 equal num2 
-    Make num2 equal current
-    Add 1 to the count
+WHILE (count < 16) {
+    PRINT num1 
+    READ current AS num1 + num2 
+    READ num1 AS num2 
+    READ num2 AS current
+    CALCULATE count AS count + 1
+}
